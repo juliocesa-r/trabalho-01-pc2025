@@ -1,0 +1,44 @@
+body {
+    font-family: "Comic Relief", system-ui;
+  font-weight: bold;
+  font-style: italic;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFVBIuecqVqwzsGzoTtGZx6qWjzLP9PoLgtg&s);
+      background-size:cover;
+    margin: center;
+    padding: 20px;
+    width: 1900px;
+    color: #d1260f9c;
+  }
+
+  html {
+    color: #1f0505;
+    text-align: center;
+    align-items: center;
+  }
+
+  .container {
+    max-width: 900px;
+    margin:
+      auto;
+    background: #e9d2d2;
+    padding: 100px;
+    width: 1900px;
+    border-radius: 48px;
+    box-shadow: 0 25px 10px rgba(206, 186, 186, 0.1);
+  }
+
+  button {
+    background-color: #ff1e00e1;
+  }
+  h1{
+    
+        font-family: "Oi", serif;
+        font-weight: bold;
+        font-style: italic;
+        color: #e9240a9c;
+        font-weight: 800;
+        font-size: 110px;
+      }
+      
+
+  
